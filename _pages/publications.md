@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: "Academic Projects"
 permalink: /publications/
 author_profile: true
 ---
 
-Academic Projects
-======
 
 * Multilayered Graphs for Transport Networks, BITS Pilani, Fall 2015 
  * Formulated and implemented A* search solution with real time heuristics to compute real world distance between paths for effective transportation between Hyderabad hubs as part of Study Oriented Project. 
