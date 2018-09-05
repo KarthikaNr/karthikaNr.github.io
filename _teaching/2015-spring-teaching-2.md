@@ -1,10 +1,10 @@
 ---
-title: "Probability and Statistic Teaching Assistant"
+title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-venue: "BITS Pilani, Mathematics Department"
-date: Spring 2014
-location: "Goa, Inda"
+venue: "BITS Pilani, Computer Science Department"
+date: 2014-01-01
+location: "India"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
