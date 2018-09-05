@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Karthika"
 title_separator          : "-"
 name                     : &name "Karthika"
-description              : &description "Hello! I'm pursuing a masters degree in Intelligent Information Systems at Carnegie Mellon School of Computer Science."
+description              : &description "Masters in Intelligent Information Systems at Carnegie Mellon School of Computer Science."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -65,14 +65,11 @@ analytics:
 author:
   name             : "Karthika"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Language Technology Institure, Carnegie Mellon University"
   location         : "Pittsburgh, Pennsylvania"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "knair@andrew.cmu.edu"
-  uri              :
-  github           : "academicpages"
-  linkedin         : "https://www.linkedin.com/in/karthika-nair-b4b6227a/"
+  github           : "karthikaNr"
+  linkedin         : "karthika-nair-b4b6227a"
 
 
 # Reading Files
