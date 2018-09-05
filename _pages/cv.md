@@ -11,25 +11,26 @@ redirect_from:
 Education
 ======
 * BE(Hons) Engineering in Computer Science, BITS Pilani University, 2017
-* M.S. in Intelligent Information Systems, Carnegie Mellon University, 2019
+* Masters in Intelligent Information Systems, Carnegie Mellon University, 2019
 
 Experience
 ======
 
 * Aug 2017- July 2018: Software Developer Amazon India Development 
   * Prime Video
-  * Duties included: Designed and built the Machine Translation Unit of the Translation Platform in Prime Video. 
+  * Designed and built the Machine Translation Unit of the Translation Platform in Prime Video. 
   * Supervisor: Keshav Kumar
 
 * Fall 2015: Research Intern
   * Stride.ai
-  * Duties included: - Designed and implemented a topic model using tweets and other social media updates to train an LDA based learning model to identify user profile interests
+  * Implemented a topic model using tweets and other social media updates to train an LDA based learning model to identify user profile interests
   * Supervisor: Prateek MS
   
-Interests
+Leadership
 ======
-* Machine Learning
-* Deep Learning
-* Information Retrieval
+Teaching Assistat for the following undergrad courses
+* Computer Programming, BITS Pilani
+* Probability and Statistics, BITS Pilani
+* Data Structures and Algorithms, BITS Pilani
 
   
