@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Karthika"
+title                    : "Language Technology Institute"
 title_separator          : "-"
 name                     : &name "Karthika"
 description              : &description "Masters in Intelligent Information Systems at Carnegie Mellon School of Computer Science."
@@ -63,7 +63,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Karthika"
+  name             : "Karthika Nair"
   avatar           : "811757120.jpg"
   bio              : "Language Technology Institute, Carnegie Mellon University"
   location         : "Pittsburgh, Pennsylvania"
