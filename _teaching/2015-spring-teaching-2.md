@@ -1,19 +1,18 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "Computer Programming"
 type: "Undergraduate course"
 venue: "BITS Pilani, Computer Science Department"
-date: 2014-01-01
+date: "Fall 2014"
 location: "India"
----
 
-This is a description of a teaching experience. You can use markdown like any other post.
+title: "Probability and Statistics"
+type: "Undergraduate course"
+venue: "BITS Pilani, Mathematics Department"
+date: "Spring 2014"
+location: "India"
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+title: "Data Structures and Algorithms"
+type: "Undergraduate course"
+venue: "BITS Pilani, Computer Science Department"
+date: "Fall 2015"
+location: "India"
