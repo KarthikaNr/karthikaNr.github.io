@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Language Technology Institute"
+title                    : "Profile Home"
 title_separator          : "-"
 name                     : &name "Karthika"
 description              : &description "Masters in Intelligent Information Systems at Carnegie Mellon School of Computer Science."
